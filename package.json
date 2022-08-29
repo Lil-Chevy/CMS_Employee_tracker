@@ -1,9 +1,34 @@
 {
+  "name": "cms_employee_tracker",
+  "version": "1.0.0",
+  "description": "![screenShot](./assets/images/)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "seed": "node db/seed.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lil-Chevy/CMS_Employee_tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Lil-Chevy/CMS_Employee_tracker/issues"
+  },
+  "homepage": "https://github.com/Lil-Chevy/CMS_Employee_tracker#readme",
   "dependencies": {
     "console.table": "^0.10.0",
     "dotenv": "^16.0.1",
     "express": "^4.18.1",
     "inquirer": "^9.1.0",
-    "mysql2": "^2.3.3"
+    "install": "^0.13.0",
+    "mysql2": "^2.3.3",
+    "npm": "^8.18.0"
   }
 }

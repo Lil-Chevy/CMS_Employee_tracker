@@ -1,6 +1,6 @@
 # CMS_Employee_tracker
 
-![screenShot](./assets/images/)
+![screenShot](./assets/images/employeerole.png)
 
 ## Purpose
 
@@ -13,5 +13,3 @@
 ## GitHub Repo
 
     https://github.com/Lil-Chevy/CMS_Employee_tracker
-
-## Deployed Application
